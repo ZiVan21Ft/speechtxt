@@ -1,4 +1,5 @@
 #python==3.9
+#pip==22.0.4
 import os
 import tkinter as tk
 import time
